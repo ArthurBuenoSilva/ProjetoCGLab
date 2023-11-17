@@ -2,7 +2,7 @@
 name = "zipper"
 version = "0.1.0"
 description = ""
-authors = ["Pedro Augusto Barbosa Aparecido <pedr.augustobarbosa.aparecido@gmail.com>"]
+authors = ["Pedro Augusto Barbosa Aparecido <pedr.augustobarbosa.aparecido@gmail.com>", "Arthur Bueno Silva <arthurbueno1395271@hotmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
