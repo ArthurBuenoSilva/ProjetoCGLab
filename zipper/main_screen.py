@@ -32,7 +32,7 @@ class MainScreen(QFrame):
         self._imported_file_view.setSizePolicy(QSizePolicy(QSizePolicy.Policy.Expanding, QSizePolicy.Policy.Expanding))
 
         self.layout.addWidget(
-            self._imported_file_view, alignment=Qt.AlignmentFlag.AlignCenter
+            self._imported_file_view
         )
 
         self._button_container_widget = QWidget()
